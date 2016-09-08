@@ -1,2 +1,2 @@
 # Reading-Speed-App
-Determines how fast a reader is reading
+Determines a readers average reading speed after a duration of time.
